@@ -1,0 +1,6 @@
+{
+  "name": "MedQueue - Hospital Queue Management System",
+  "description": "A priority-based hospital queue management system prioritizing Emergency, Urgent, and Regular patients with Java OOP academic companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
